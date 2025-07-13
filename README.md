@@ -2,6 +2,22 @@
 
 A fullstack web application for skill swapping, featuring user and admin panels, announcements, swap moderation, feedback and rating system, and more.
 
+## Project Description
+
+Skill Share is a comprehensive platform that enables users to exchange skills with each other in a collaborative learning environment. The platform facilitates peer-to-peer skill sharing through a structured swap system, complete with user management, moderation tools, and community features.
+
+### Core Concept
+Users can list skills they can teach and skills they want to learn. They can search for compatible partners, send swap requests, and after completing a skill exchange, leave feedback and ratings for each other. This creates a self-sustaining community of learners and teachers.
+
+### Key Components
+- **User Management**: Registration, profiles, skill listings, and account management
+- **Swap System**: Request, accept, reject, and complete skill exchanges
+- **Search & Discovery**: Find users by skills, location, and availability
+- **Feedback System**: Rate and review completed swaps
+- **Admin Panel**: Comprehensive moderation and management tools
+- **Announcements**: Community-wide communication system
+- **Reports & Analytics**: Data-driven insights for platform management
+
 ## Features
 - User registration, login, and profile management
 - Skill listing and searching
